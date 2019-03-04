@@ -1,6 +1,5 @@
 def parimpar(n):
-    while n >= 0:
-        
+    while n >= 0:       
             return 'par'
         if(n == 1):
             return 'impar'
